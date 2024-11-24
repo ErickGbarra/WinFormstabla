@@ -1,0 +1,16 @@
+C:\Users\erick\source\repos\WinFormstabla\WinFormstabla\bin\Debug\net8.0-windows\WinFormstabla.exe
+C:\Users\erick\source\repos\WinFormstabla\WinFormstabla\bin\Debug\net8.0-windows\WinFormstabla.deps.json
+C:\Users\erick\source\repos\WinFormstabla\WinFormstabla\bin\Debug\net8.0-windows\WinFormstabla.runtimeconfig.json
+C:\Users\erick\source\repos\WinFormstabla\WinFormstabla\bin\Debug\net8.0-windows\WinFormstabla.dll
+C:\Users\erick\source\repos\WinFormstabla\WinFormstabla\bin\Debug\net8.0-windows\WinFormstabla.pdb
+C:\Users\erick\source\repos\WinFormstabla\WinFormstabla\obj\Debug\net8.0-windows\WinFormstabla.Form1.resources
+C:\Users\erick\source\repos\WinFormstabla\WinFormstabla\obj\Debug\net8.0-windows\WinFormstabla.csproj.GenerateResource.cache
+C:\Users\erick\source\repos\WinFormstabla\WinFormstabla\obj\Debug\net8.0-windows\WinFormstabla.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erick\source\repos\WinFormstabla\WinFormstabla\obj\Debug\net8.0-windows\WinFormstabla.AssemblyInfoInputs.cache
+C:\Users\erick\source\repos\WinFormstabla\WinFormstabla\obj\Debug\net8.0-windows\WinFormstabla.AssemblyInfo.cs
+C:\Users\erick\source\repos\WinFormstabla\WinFormstabla\obj\Debug\net8.0-windows\WinFormstabla.csproj.CoreCompileInputs.cache
+C:\Users\erick\source\repos\WinFormstabla\WinFormstabla\obj\Debug\net8.0-windows\WinFormstabla.dll
+C:\Users\erick\source\repos\WinFormstabla\WinFormstabla\obj\Debug\net8.0-windows\refint\WinFormstabla.dll
+C:\Users\erick\source\repos\WinFormstabla\WinFormstabla\obj\Debug\net8.0-windows\WinFormstabla.pdb
+C:\Users\erick\source\repos\WinFormstabla\WinFormstabla\obj\Debug\net8.0-windows\WinFormstabla.genruntimeconfig.cache
+C:\Users\erick\source\repos\WinFormstabla\WinFormstabla\obj\Debug\net8.0-windows\ref\WinFormstabla.dll
